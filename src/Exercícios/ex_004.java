@@ -12,6 +12,7 @@ public class ex_004 {
         hora e calcula o salário desse funcionário. A seguir, 
         mostre o número e o salário do funcionário, com duas casas
         decimais.*/
+        
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 

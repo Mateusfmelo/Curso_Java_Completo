@@ -12,6 +12,7 @@ public class ex_005 {
         o código de uma peça 2, o número de peças 2 e o valor 
         unitário de cada peça 2. Calcule e mostre o valor a 
         ser pago*/
+        
         Locale.setDefault(Locale.US);
         Scanner sc = new Scanner(System.in);
 
