@@ -1,2 +1,2 @@
 # Curso_Java_Completo
- Repositório Materiais e exercícios referentes ao curso de Java
+ Repositório criado afim de armazenar materiais e exercícios referentes ao curso de Java
