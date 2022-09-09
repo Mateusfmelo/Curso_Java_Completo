@@ -32,6 +32,5 @@ public class ex_005 {
         System.out.printf("VALOR A PAGAR: R$ %.2f%n", total);
 
         sc.close();
-
     }
 }
