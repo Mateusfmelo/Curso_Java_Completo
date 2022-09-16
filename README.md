@@ -2,7 +2,11 @@
 
 ### Informações sobre o Curso  
 
-* Estou fazendo o curso aos poucos, até o momento vi os seguintes tópicos:  
+* O curso ainda está em andamento, até o seguinte momento foram abordados os seguintes tópicos:
     * Lógica de programação
     * Estrutura sequencial
     * Estrutura condicional
+
+#
+    
+**Atualizarei o repositório de acordo com o andamento do curso**
