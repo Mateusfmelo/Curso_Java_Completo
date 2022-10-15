@@ -1,4 +1,4 @@
-package test;
+package teste;
 
 import java.util.Locale;
 import java.util.Scanner;
